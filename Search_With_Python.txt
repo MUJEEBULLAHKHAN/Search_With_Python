@@ -1,0 +1,7 @@
+Assalamu Alaikum Wa Rahmatullahi Wa Barakaatuhu!
+Python is a general purpose object oriented high level programming language.
+Python is used in various field such as Artificial Intelligence, Machine Learning, 
+Deep Learning, Data Science, Big Data, Natural Language Processing, 
+Mobile Apps Developement, Web Developement, System Scripting etc.
+I want to be the AI and ML Engineer!
+MUJEEB_ULLAH_KHAN
